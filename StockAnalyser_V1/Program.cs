@@ -184,7 +184,7 @@ namespace StockAnalyser_V1
             var stockstitlefile = StockAnalysisHelper.GetConfigStringValues(Constants.stocksTitleDataFileName);
             int stocksTitleRefreshPeriod = StockAnalysisHelper.GetConfigIntValues(Constants.stocksTitleDataFileName);
             
-            if (RefreshFile(stockstitlefile, out existingStockTitleFiles, out stocksTitleFileWithPath, stocksTitleRefreshPeriod))
+            if (StockAnalysisHelper.RefreshFile(stockstitlefile, out existingStockTitleFiles, out stocksTitleFileWithPath, stocksTitleRefreshPeriod))
             {                
                 List<StockTitleModel> stocksTitleList = new List<StockTitleModel>();
                 string NSEFileWithPath = string.Concat(appFolder, "\\", "NSEBhavCopy.csv");
