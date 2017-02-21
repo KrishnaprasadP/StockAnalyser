@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockAnalyser_V1", "StockAnalyser_V1\StockAnalyser_V1.csproj", "{0B657CF9-9891-4932-871B-5E76C9791599}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQTest", "LINQTest\LINQTest.csproj", "{ED389E93-59C8-4B2E-9F31-0DA5879E61A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockAnalyser", "StockAnalyser\StockAnalyser.csproj", "{7ED8D4E7-A750-418D-A645-D12D719A1DEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B657CF9-9891-4932-871B-5E76C9791599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B657CF9-9891-4932-871B-5E76C9791599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B657CF9-9891-4932-871B-5E76C9791599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B657CF9-9891-4932-871B-5E76C9791599}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED389E93-59C8-4B2E-9F31-0DA5879E61A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED389E93-59C8-4B2E-9F31-0DA5879E61A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED389E93-59C8-4B2E-9F31-0DA5879E61A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED389E93-59C8-4B2E-9F31-0DA5879E61A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ED8D4E7-A750-418D-A645-D12D719A1DEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ED8D4E7-A750-418D-A645-D12D719A1DEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ED8D4E7-A750-418D-A645-D12D719A1DEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ED8D4E7-A750-418D-A645-D12D719A1DEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

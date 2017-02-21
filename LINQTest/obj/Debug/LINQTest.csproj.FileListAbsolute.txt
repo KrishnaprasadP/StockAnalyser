@@ -1,0 +1,1 @@
+C:\Users\Krishnaprasad\Documents\Visual Studio 2015\Projects\StockAnalyser_V1\LINQTest\bin\Debug\LINQTest.exe.config
